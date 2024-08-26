@@ -6,7 +6,7 @@
 - Always exploring new technologies and best practices in software development.
 
 ##  Looking to Collaborate On:
-- Backend-focused projects with Node.js, Express, and MongoDB.
+- fullstack-focused projects with Node.js, Express, and MongoDB.
 - Building modern web applications.
 - Projects related to authentication, user management, and real-time data handling.
 
