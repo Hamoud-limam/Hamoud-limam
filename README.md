@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Hamoud Limam!
 
 ## 👀 About Me:
-- A passionate backend developer in the making.
+- A passionate fullstack developer in the making.
 - Interested in web development and building efficient, scalable backend systems.
 - Always exploring new technologies and best practices in software development.
 
